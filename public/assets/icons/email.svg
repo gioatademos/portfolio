@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg id="Layer_2" data-name="Layer 2" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" viewBox="0 0 50 40">
+  <defs>
+    <style>
+      .cls-1 {
+        fill: url(#linear-gradient);
+      }
+    </style>
+    <linearGradient id="linear-gradient" x1="25" y1="62.99" x2="25" y2="-17.31" gradientUnits="userSpaceOnUse">
+      <stop offset="0" stop-color="#1eb5cf"/>
+      <stop offset=".68" stop-color="#8063c0"/>
+    </linearGradient>
+  </defs>
+  <g id="DESIGNED_BY_FREEPIK" data-name="DESIGNED BY FREEPIK">
+    <path class="cls-1" d="M40,0H10C3.5,0,0,5.15,0,10v20c0,6.5,5.15,10,10,10h30c4.85,0,10-3.5,10-10V10c0-4.85-3.5-10-10-10ZM45,29.41c0,5-5,5-5,5V11.91l-15,10-15-10v22.5s-5,0-5-5V9.41s0-5,5-5l15,11.25,15-11.25c5,0,5,5,5,5v20Z"/>
+  </g>
+</svg>

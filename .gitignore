@@ -1,0 +1,22 @@
+# dependencies
+node_modules/
+
+# Next.js
+.next/
+out/
+
+# env
+.env*
+*.log
+
+# OS
+.DS_Store
+Thumbs.db
+
+# zips / archives
+*.zip
+*.rar
+*.7z
+
+# cache
+.cache/

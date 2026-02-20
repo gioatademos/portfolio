@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg id="Layer_2" data-name="Layer 2" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" viewBox="0 0 27.05 40.01">
+  <defs>
+    <style>
+      .cls-1 {
+        fill: url(#linear-gradient-2);
+      }
+
+      .cls-2 {
+        fill: url(#linear-gradient-4);
+      }
+
+      .cls-3 {
+        fill: url(#linear-gradient-3);
+      }
+
+      .cls-4 {
+        fill: url(#linear-gradient);
+      }
+    </style>
+    <linearGradient id="linear-gradient" x1="13.53" y1="-635.17" x2="13.53" y2="-595.16" gradientTransform="translate(0 -595.16) scale(1 -1)" gradientUnits="userSpaceOnUse">
+      <stop offset="0" stop-color="#1eb5cf"/>
+      <stop offset=".74" stop-color="#8063c0"/>
+    </linearGradient>
+    <linearGradient id="linear-gradient-2" x1="13.52" y1="-607.07" x2="13.52" y2="-603.45" xlink:href="#linear-gradient"/>
+    <linearGradient id="linear-gradient-3" x1="13.54" y1="-605.09" x2="13.54" y2="-598.05" xlink:href="#linear-gradient"/>
+    <linearGradient id="linear-gradient-4" x1="13.53" y1="-602.49" x2="13.53" y2="-600.62" xlink:href="#linear-gradient"/>
+  </defs>
+  <g id="DESIGNED_BY_FREEPIK" data-name="DESIGNED BY FREEPIK">
+    <g id="DESIGNED_BY_FREEPIK-2" data-name="DESIGNED BY FREEPIK">
+      <g id="_7550_-_User_Profile" data-name=" 7550 - User Profile">
+        <g>
+          <path class="cls-4" d="M0,1.71v36.75c0,.52,1.21,1.55,1.82,1.55h23.12c.7,0,2.11-1.4,2.11-2.11V1.92c0-.64-1.27-1.92-1.9-1.92C17.42.01,9.67.01,1.93.01,1.29.01,0,1.14,0,1.71ZM13.53,1.93c3.01,0,5.47,2.46,5.47,5.47,0,1.52-.62,2.89-1.62,3.88h0s-.04.05-.06.06c-.98.94-2.32,1.52-3.78,1.52s-2.8-.58-3.78-1.52c-.02-.02-.05-.04-.06-.06h0c-1-.98-1.62-2.36-1.62-3.88-.02-3.01,2.43-5.47,5.45-5.47ZM5.32,35.51H1.94v-3.38h3.38v3.38h0ZM5.32,27.81H1.94v-3.38h3.38v3.38h0ZM5.32,20.1H1.94v-3.38h3.38v3.38h0ZM25.11,35.55H7.71c-.27,0-.47-.22-.47-.47s.22-.47.47-.47h17.41c.27,0,.47.22.47.47s-.21.47-.47.47h0ZM25.11,33.05H7.71c-.27,0-.47-.22-.47-.47s.22-.47.47-.47h17.41c.27,0,.47.22.47.47s-.21.47-.47.47h0ZM25.11,27.84H7.71c-.27,0-.47-.22-.47-.47s.22-.47.47-.47h17.41c.27,0,.47.22.47.47s-.21.47-.47.47h0ZM25.11,25.34H7.71c-.27,0-.47-.22-.47-.47s.22-.47.47-.47h17.41c.27,0,.47.22.47.47s-.21.47-.47.47h0ZM25.11,20.14H7.71c-.27,0-.47-.22-.47-.47s.22-.47.47-.47h17.41c.27,0,.47.22.47.47s-.21.47-.47.47h0ZM25.11,17.63H7.71c-.27,0-.47-.22-.47-.47s.22-.47.47-.47h17.41c.27,0,.47.22.47.47s-.21.47-.47.47h0Z"/>
+          <path class="cls-1" d="M13.53,8.29c-1.46,0-2.72,1.08-2.98,2.5.79.69,1.84,1.12,2.98,1.12s2.18-.43,2.97-1.12c-.11-.61-.4-1.17-.84-1.62-.57-.57-1.32-.89-2.13-.89h0Z"/>
+          <path class="cls-3" d="M12.08,7.61c-.28-.33-.44-.75-.44-1.22,0-1.05.85-1.9,1.9-1.9s1.9.85,1.9,1.9c0,.46-.17.88-.44,1.22.5.19.96.5,1.35.89.41.41.72.9.92,1.43.49-.72.78-1.59.78-2.53,0-2.49-2.02-4.51-4.51-4.51s-4.51,2.02-4.51,4.51c0,.94.29,1.81.78,2.53.39-1.06,1.23-1.91,2.27-2.32Z"/>
+          <circle class="cls-2" cx="13.53" cy="6.39" r=".94"/>
+        </g>
+      </g>
+    </g>
+  </g>
+</svg>
