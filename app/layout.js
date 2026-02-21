@@ -53,12 +53,13 @@ export default function RootLayout({ children }) {
       lang="en"
       className="overflow-x-hidden h-full js flexbox flexboxlegacy canvas canvastext webgl no-touch geolocation postmessage no-websqldatabase indexeddb hashchange history draganddrop websockets rgba hsla multiplebgs backgroundsize borderimage borderradius boxshadow textshadow opacity cssanimations csscolumns cssgradients cssreflections csstransforms csstransforms3d csstransitions fontface generatedcontent video audio localstorage sessionstorage webworkers no-applicationcache svg inlinesvg smil svgclippaths"
     >
-      <head>
-        <GioCSS />
-      </head>
-
-      <body className={`${fontFamily} ${museo.variable} font-Poppins text-fs-16 font-medium leading-lh-1.6`}>
-        <MainState>{children}</MainState>
+      <body
+        className={`${fontFamily} ${museo.variable} font-Poppins text-fs-16 font-medium leading-lh-1.6`}
+      >
+        <MainState>
+          <GioCSS />
+          {children}
+        </MainState>
       </body>
     </html>
   );
